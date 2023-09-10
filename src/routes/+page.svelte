@@ -151,11 +151,6 @@
 <h1>Coming soon!</h1>
 
 <style>
-  html {
-    font-family: Lato, "Segoe UI", Avenir, Ubuntu, Tahoma, Verdana, Helvetica,
-      sans-serif;
-  }
-
   h1 {
     font-size: 4em;
     font-weight: normal;
@@ -169,6 +164,7 @@
   }
 
   :global(body) {
+    font-family: "Roboto", sans-serif;
     height: 100vh; /* Use viewport height to make the body fill the screen */
     margin: 0;
     display: flex;
