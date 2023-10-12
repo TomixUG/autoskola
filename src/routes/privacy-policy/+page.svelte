@@ -34,7 +34,20 @@
     Link to the privacy policy of third-party service providers used by the app
   </p>
   <ul>
-    <!----><!---->
+    <li>
+      <a
+        href="https://www.google.com/policies/privacy/"
+        target="_blank"
+        rel="noopener noreferrer">Google Play Services</a
+      >
+    </li>
+    <li>
+      <a
+        href="https://support.google.com/admob/answer/6128543?hl=en"
+        target="_blank"
+        rel="noopener noreferrer">AdMob</a
+      >
+    </li>
     <li>
       <a
         href="https://firebase.google.com/support/privacy"
@@ -127,11 +140,11 @@
   review this page periodically for any changes. I will notify you of any
   changes by posting the new Privacy Policy on this page.
 </p>
-<p>This policy is effective as of 2023-09-10</p>
+<p>This policy is effective as of 2023-10-12</p>
 <p><strong>Contact Us</strong></p>
 <p>
   If you have any questions or suggestions about my Privacy Policy, do not
-  hesitate to contact me at tomas.sousek1@gmail.com.
+  hesitate to contact me at tomixsoftware@gmail.com.
 </p>
 <p>
   This privacy policy page was created at <a
